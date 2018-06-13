@@ -8,5 +8,8 @@ onstant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf
  pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid s
 se4_1 sse4_2 popcnt aes lahf_lm tpr_shadow vnmi flexpriority ept vpid dtherm ida
  arat
+#Installation
+Download the file
+Install with "pip install tensorflow-1.8.0-cp27-cp27mu-linux_x86_64.whl"
 
 No GPU support, sorry...
